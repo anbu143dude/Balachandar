@@ -19,6 +19,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Generate downloadable PDF CV
+        shell: bash
+        run: |
+          CHROME="$(command -v google-chrome || command -v chromium-browser || command -v chromium || true)"
+          if [ -z "$CHROME" ]; then
+            echo "Chrome/Chromium not found on runner"
+            exit 1
+          fi
+          "$CHROME" --headless --no-sandbox --disable-gpu             --print-to-pdf="$GITHUB_WORKSPACE/Balachandar_P_CV.pdf"             --no-pdf-header-footer             "file://$GITHUB_WORKSPACE/cv.html"
+          test -s "$GITHUB_WORKSPACE/Balachandar_P_CV.pdf"
+          file "$GITHUB_WORKSPACE/Balachandar_P_CV.pdf"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
