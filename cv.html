@@ -1,27 +1,153 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Balachandar P | CV</title>
 <style>
-:root{--plum:#3b244a;--plum2:#5c355f;--rose:#8b4f72;--soft:#f4eaf0;--soft2:#fbf7fa;--ink:#4a3d4d;--muted:#796d79;--line:#d8cbd5}
-*{box-sizing:border-box}body{margin:0;background:#fff;color:var(--ink);font-family:Georgia,"Times New Roman",serif;font-size:11px;line-height:1.28}
-.page{width:210mm;min-height:297mm;margin:0 auto;padding:4mm 5mm 5mm}
-.banner{background:linear-gradient(135deg,var(--plum),var(--plum2));color:#fff;padding:6mm 4mm 4.5mm;margin-bottom:2.5mm}
-.banner h1{font-size:24px;line-height:1;margin:0 0 2mm;letter-spacing:.2px}.banner p{font-size:12px;color:#eadce6;margin:0;font-weight:700}
-.contact{font-size:8.7px;color:var(--rose);margin:0 0 1.4mm;font-weight:700}.contact a{color:inherit;text-decoration:none}
-.section{margin-top:3mm}.section h2{font-size:11px;margin:0 0 1.4mm;padding-bottom:1mm;border-bottom:1px solid #bcaebb;color:var(--plum);letter-spacing:.1px}
-.summary{font-size:9.1px;margin:0}
-.skills-table{width:100%;border-collapse:collapse;table-layout:fixed;background:var(--soft2);border:1px solid #d9cdd6}
-.skills-table td{width:50%;vertical-align:top;padding:2.4mm;border:1px solid #ddd0d9}
-.skills-table h3{font-size:8.2px;margin:0 0 1mm;color:var(--plum);text-transform:uppercase}
-.skills-table p{font-size:8.2px;margin:0;line-height:1.35}
-.exp{margin-bottom:2.4mm}.exp-head{font-size:9.3px;font-weight:700;color:var(--plum);margin-bottom:.5mm}.exp-role{font-size:8.8px;margin-bottom:.7mm;color:#5f5060}.exp ul{margin:0;padding-left:4.2mm}.exp li{font-size:8.4px;line-height:1.3;margin-bottom:.45mm}
-.continued{break-before:page}.compact-line{font-size:8.5px;line-height:1.4;margin:0 0 .7mm}
-.edu p,.certs p,.awards p{font-size:8.6px;margin:.5mm 0}
-.print-note{display:none}
-@media screen{body{background:#eee}.page{background:#fff;box-shadow:0 12px 30px rgba(0,0,0,.12);margin:20px auto}}
-@media print{@page{size:A4;margin:0}body{background:#fff}.page{box-shadow:none;margin:0;page-break-after:auto}}
+:root{
+  --plum:#3b244a;
+  --plum2:#5c355f;
+  --rose:#8b4f72;
+  --rose-soft:#f4eaf0;
+  --paper:#ffffff;
+  --ink:#3f3442;
+  --muted:#695c69;
+  --line:#d5c7d2;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:#fff}
+body{
+  color:var(--ink);
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:10pt;
+  line-height:1.38;
+}
+.page{
+  width:210mm;
+  min-height:297mm;
+  margin:0 auto;
+  padding:10mm 11mm 10mm;
+  background:var(--paper);
+  position:relative;
+}
+.banner{
+  background:linear-gradient(135deg,var(--plum),var(--plum2));
+  color:#fff;
+  padding:7mm 5mm 5.5mm;
+  margin-bottom:3mm;
+}
+.banner h1{
+  font-size:24pt;
+  line-height:1;
+  letter-spacing:.2px;
+  margin:0 0 2.2mm;
+  font-weight:700;
+}
+.banner p{
+  margin:0;
+  color:#eadce6;
+  font-size:11.5pt;
+  font-weight:700;
+}
+.contact{
+  margin:0 0 2.5mm;
+  color:var(--rose);
+  font-size:9.2pt;
+  line-height:1.35;
+  font-weight:700;
+}
+.section{margin-top:4mm}
+.section h2{
+  margin:0 0 2mm;
+  padding-bottom:1.2mm;
+  border-bottom:1.2px solid #bdaebb;
+  color:var(--plum);
+  font-size:11.2pt;
+  line-height:1.2;
+  letter-spacing:.15px;
+}
+.summary{
+  margin:0;
+  font-size:9.6pt;
+  line-height:1.45;
+}
+.skills-table{
+  width:100%;
+  border-collapse:collapse;
+  table-layout:fixed;
+  background:#fbf8fa;
+  border:1px solid #dacdd7;
+}
+.skills-table td{
+  width:50%;
+  vertical-align:top;
+  padding:3mm;
+  border:1px solid #ddd0d9;
+}
+.skills-table h3{
+  margin:0 0 1.2mm;
+  color:var(--plum);
+  font-size:8.6pt;
+  line-height:1.25;
+  text-transform:uppercase;
+}
+.skills-table p{
+  margin:0;
+  font-size:8.8pt;
+  line-height:1.4;
+}
+.exp{
+  margin-bottom:3.4mm;
+  break-inside:avoid;
+}
+.exp-head{
+  margin-bottom:.7mm;
+  color:var(--plum);
+  font-size:10.2pt;
+  line-height:1.25;
+  font-weight:700;
+}
+.exp-role{
+  margin-bottom:1.2mm;
+  color:#594b5b;
+  font-size:9.2pt;
+  line-height:1.3;
+  font-weight:600;
+}
+.exp ul{
+  margin:0;
+  padding-left:5mm;
+}
+.exp li{
+  margin-bottom:.8mm;
+  font-size:8.9pt;
+  line-height:1.4;
+}
+.edu p,.certs p,.awards p{
+  margin:.9mm 0;
+  font-size:9pt;
+  line-height:1.42;
+}
+.page-label{
+  position:absolute;
+  right:11mm;
+  bottom:5mm;
+  color:#9c8c99;
+  font:7.5pt Arial,sans-serif;
+}
+.continued{break-before:page}
+@media screen{
+  body{background:#ece9ec}
+  .page{margin:22px auto;box-shadow:0 14px 34px rgba(59,36,74,.12)}
+}
+@media print{
+  @page{size:A4;margin:0}
+  body{background:#fff}
+  .page{margin:0;box-shadow:none;page-break-after:always}
+  .page:last-of-type{page-break-after:auto}
+  *{-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important}
+}
 </style>
 </head>
 <body>
@@ -31,6 +157,7 @@
     <h1>BALACHANDAR P</h1>
     <p>Principle Manager, Production Services</p>
   </div>
+
   <p class="contact">Bangalore, India | +91 9844240093 | balu7008@gmail.com</p>
 
   <div class="section">
@@ -42,12 +169,24 @@
     <h2>TECHNICAL SKILLS</h2>
     <table class="skills-table">
       <tr>
-        <td><h3>MARKETING AUTOMATION</h3><p>Responsys Interact, Eloqua, Salesforce Marketing Cloud (SFMC), Wunderkind Core, Wunderkind Studio.</p></td>
-        <td><h3>CAMPAIGN PLATFORMS</h3><p>Cheetah Messaging, Cheetah Experience, Cheetah Mail, Zendesk.</p></td>
+        <td>
+          <h3>MARKETING AUTOMATION</h3>
+          <p>Responsys Interact, Eloqua, Salesforce Marketing Cloud (SFMC), Wunderkind Core, Wunderkind Studio.</p>
+        </td>
+        <td>
+          <h3>CAMPAIGN PLATFORMS</h3>
+          <p>Cheetah Messaging, Cheetah Experience, Cheetah Mail, Zendesk.</p>
+        </td>
       </tr>
       <tr>
-        <td><h3>CAMPAIGN OPERATIONS</h3><p>B2B and B2C campaigns, customer acquisition, retention, lead generation, QA, monitoring, SLA/TAT optimization, resource management.</p></td>
-        <td><h3>TECHNICAL DELIVERY & LEADERSHIP</h3><p>API calls, SQL joins, triggered/recurring launches, landing pages, data lists, filters, supplemental tables, project management, stakeholder management, team training and client onboarding.</p></td>
+        <td>
+          <h3>CAMPAIGN OPERATIONS</h3>
+          <p>B2B and B2C campaigns, customer acquisition, retention, lead generation, QA, monitoring, SLA/TAT optimization and resource management.</p>
+        </td>
+        <td>
+          <h3>TECHNICAL DELIVERY & LEADERSHIP</h3>
+          <p>API calls, SQL joins, triggered/recurring launches, landing pages, data lists, filters, supplemental tables, project management, stakeholder management, team training and client onboarding.</p>
+        </td>
       </tr>
     </table>
   </div>
@@ -83,10 +222,12 @@
       </ul>
     </div>
   </div>
+
+  <div class="page-label">Page 1 of 2</div>
 </section>
 
 <section class="page continued">
-  <div class="section">
+  <div class="section" style="margin-top:0">
     <h2>PROFESSIONAL EXPERIENCE CONTINUED</h2>
 
     <div class="exp">
@@ -130,10 +271,12 @@
 
   <div class="section awards">
     <h2>AWARDS & RECOGNITION</h2>
-    <p>Best Employee | Outstanding quality on Tier-1 accounts</p>
-    <p>Oracle Innovation Recognition | Responsys STO + MVT concept documentation</p>
-    <p>AU Stakeholder Appreciation | High-volume peak-season campaign delivery for Suncorp and Coles Liquor</p>
+    <p><strong>Best Employee</strong> | Outstanding quality on Tier-1 accounts</p>
+    <p><strong>Oracle Innovation Recognition</strong> | Responsys STO + MVT concept documentation</p>
+    <p><strong>AU Stakeholder Appreciation</strong> | High-volume peak-season campaign delivery for Suncorp and Coles Liquor</p>
   </div>
+
+  <div class="page-label">Page 2 of 2</div>
 </section>
 </body>
 </html>
