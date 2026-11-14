@@ -27,7 +27,7 @@ jobs:
             echo "Chrome/Chromium not found on runner"
             exit 1
           fi
-          "$CHROME" --headless --no-sandbox --disable-gpu             --print-to-pdf="$GITHUB_WORKSPACE/Balachandar_P_CV.pdf"             --no-pdf-header-footer             "file://$GITHUB_WORKSPACE/cv.html"
+          "$CHROME" --headless --no-sandbox --disable-gpu --virtual-time-budget=2500             --print-to-pdf="$GITHUB_WORKSPACE/Balachandar_P_CV.pdf"             --no-pdf-header-footer             "file://$GITHUB_WORKSPACE/cv.html"
           test -s "$GITHUB_WORKSPACE/Balachandar_P_CV.pdf"
           file "$GITHUB_WORKSPACE/Balachandar_P_CV.pdf"
       - uses: actions/upload-pages-artifact@v3
