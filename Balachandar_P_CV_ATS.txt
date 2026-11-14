@@ -1,70 +1,97 @@
 Balachandar P
-Marketing Automation & Campaign Operations Leader
-Bengaluru, India
+
 Email: balu7008@gmail.com
-Phone: +91 98442 40093
+Contact Number: +919844240093
 
-PROFESSIONAL SUMMARY
-Digital marketing and production-services professional with 11+ years of IT experience across B2B and B2C email marketing campaign services, customer relationship management (CRM) platforms, marketing automation, project management, client operations and team leadership. Experienced in planning, executing, testing and measuring integrated campaigns for enterprise clients. Strong background in lead generation, customer acquisition and retention, operational improvement, stakeholder management and global production services.
+Professional Summary
 
-CORE SKILLS
-Marketing Automation; B2B Marketing; B2C Marketing; Email Marketing; Campaign Management; Campaign Operations; Customer Relationship Management (CRM); Project Management; Quality Assurance; Team Leadership; Stakeholder Management; Resource Management; Client Onboarding; Lead Generation; Customer Retention; Campaign Monitoring; Salesforce Marketing Cloud (SFMC); Oracle Responsys; Eloqua; Cheetah Messaging; Cheetah Experience; Cheetah Mail; Wunderkind Core; Wunderkind Studio; Zendesk; SQL Joins; API Calls; Landing Pages; Send Time Optimization (STO); Multivariate Testing (MVT).
+11+ Years of IT Experience in B2B, B2C Email Marketing Campaign Services and CRM Platforms. Marketing professional focused on high-tech end-to-end Marketing. I plan, execute, test and measure results of fully integrated campaigns for the enterprise IT market.
 
-WORK EXPERIENCE
+Well-experienced detail-orientated digital marketing leader with a comprehensive background in lead generation, tactical and strategic planning and e-mail marketing automation. Successfully drives growth in company ROI through innovative and cutting-edge marketing campaigns.
 
-Versatiletech
-Principle Manager, Production Services
-Nov 2023 - Present
-- Manage production-services operations, problem solving, team stability and process improvement.
-- Represented the organization in the USA for onboarding new clients.
-- Managed and trained a 15-member team across support functions.
-- Work with internal and US stakeholders to streamline project workflows and improve resource utilization.
-- Recognized by global leadership for process-improvement contributions across retail and financial clients.
-- Implemented event-based triggered campaigns by integrating Wunderkind Core with Salesforce Marketing Cloud (SFMC).
+Skills:
+- Proficient in developing and implementing B2C marketing campaigns that drive customer acquisition and retention.
+- Extensive experience in managing and supporting both B2C and B2B client globally.
+- 6 years of successful experience as a Campaign Manager, delivering outstanding results.
+- Demonstrated expertise in various Marketing Automation Tools:
+  - Responsys Interact
+  - Eloqua
+  - Cheetah Messaging
+  - Cheetah Experience
+  - Cheetah Mail
+  - Salesforce Marketing Cloud
+  - Wunderkind Core
+  - Wunderkind Studio
+  - Zendesk
 
-Marigold
-Manager, Production Services
-Apr 2021 - Nov 2023
-- Ran Grow Platform services across APAC and EMEA and built strong relationships with global clients.
-- Supported critical projects for Starbucks, PepsiCo, Unilever, Air New Zealand and Are Media.
-- Provided campaign recommendations intended to improve click rates, engagement rates and conversion rates.
-- Led global team enablement across APAC, AMER and EMEA.
-- Implemented a project complexity matrix to improve SLA and turnaround time.
-- Implemented a QA framework, hybrid team capability model, knowledge-transfer workspace and lifecycle monitoring framework.
-- Collaborated with Engineering and Product teams on product bugs and new feature use cases.
-- Supported challenged client relationships, including improving Air New Zealand account health from red to green.
-- Worked with peer leaders and onshore teams to globalize operations and improve delivery timelines.
+Work Experience
 
-Oracle India Private Ltd
-Specialist Campaign Services
-Apr 2017 - Apr 2021
-- Supported campaign services and project management for Coles Liquor, Jetstar, Telstra and Suncorp.
-- Supported project management for Aegean Airlines, including scrum calls, client calls, budgeting and timeline negotiation.
-- Managed a 4-member team and supported complex technical campaign tasks.
-- Supported onboarding of Coles Liquor and provided process recommendations for complex campaign and automation projects.
-- Developed documentation combining Responsys Send Time Optimization (STO) and multivariate testing (MVT), recognized by Oracle's innovation team.
-- Built static and dynamic campaigns, data lists, filters, seed/proof lists and supplemental tables using Oracle Marketing Cloud / Responsys.
-- Created personalized campaigns, lead-generation programs and customized landing pages in Eloqua.
-- Worked with EMD/RPL, API calls, programming launches, image hosting, Connect Jobs, triggered/recurring launches, SQL joins, prefilled forms, dashboards, lists, filters and suppressions.
-- Recognized by Australian stakeholders and executive teams for managing high-volume campaigns during peak sales periods.
+Versatiletech - Principle Manager, Production Services
+Nov’ 2023 – Till Date
+- Have an excellent problem solving skills and have come up with the best ideas and out of box thinking that have helped Team and work environment to remain stable and effective.
+- Got an opportunity to travel USA to represent TI for on-boarding new clients.
+- Managed team size of 15 members and played a key role in training members on Supprot Functions.
+- Work with internal and US stockholders to streamline new project workflow and process with Team members and make sure as it working expected..
+- Responsible for resource management and utilization for revenue gains for the organization.
+- Recognized by the Global director and US managers for providing inputs to improve the processes of retail, Financial clients.
+- Implemented event-based triggered campaigns in Salesforce Marketing Cloud (SFMC) by integrating Wunderkind Core with SFMC
 
-Versatiletech
-Specialist Campaign Services
-Nov 2013 - Sep 2016
-- Delivered campaign services and supported onboarding of new US clients.
-- Managed and trained a 15-member team supporting Nordstrom, Staples and Cost Plus.
-- Worked with internal and US stakeholders to improve campaign build and QA processes for Intuit, Macy's and Hawaiian Airlines.
-- Managed resource utilization for organizational revenue goals.
-- Recognized by global leadership for process-improvement contributions.
-- Received the Best Employee award for outstanding quality on Tier-1 accounts.
+Marigold - Manager, Production Services
+April’ 2021 – Nov 2023
+- 9+ Years of Experience in Campaign Services and have hands on Experience in Project management.
+- I make sure to co-ordinate with my peer leaders and with team members on daily basis to stabilize the operation and being instrumental on providing solutions to client’s which team is supporting.
+- I run the Grow Platform services for APAC and EMEA region, and due to his consulting and decision-making skills I had made sure to build good relationship and trust with Grow Platform clients.
+- I had worked on critical Projects for Starbucks, Pepsico, Unilever, Air NewZealand and Are Media etc. I always make sure to understand client business strategy and provide creative recommendations and solution to implement projects which helps clients to get more click rates, engagement rate and Conversion rate (Project KPI's). This has encouraged many clients to implement more projects on Grow Platform and helped us to have client to purchase more services hours and packages.
+- I also make sure to upskill Grow Platform global team (APAC, AMER and EMEA) on new techniques and every week I run an enablement session with team to walkthrough on new techniques and implementations which he has put across to client. I lead the team from front to provide innovative ideas and recommendations from ideation to execution of projects.
+- I had taken initiatives to optimize operations on Grow Platform:
+  - Optimized build Process for faster SLA & TAT - Implemented Complexity matrix for Projects.
+  - Implemented QA framework to improve quality of projects.
+  - Upskilled team to create hybrid framework. Irrespective of job function each and every team member have capability of build, QA and Monitoring
+  - Created KT workspace for Web developers and Coders.
+  - Implemented Monitoring framework for entire life cycle of Projects.
+- I had made sure to go above and beyond expectations from my role. i worked with APAC leaders to build relationship with clients having health status in Red.
+- I did coordinate with Air New Zealand team to fix all issues on the projects which was worked by previous team and had a weekly connect to provide recommendations for their upcoming Projects. This helped to build good relationship with client and moving the client health from Red to Green. With his approach team started to receive lot of projects from various business units of Air Newzealand.
+- I collaborate and partners with Engineering and Product team to fix product bugs. I proactively check with customers if they are facing any challenges on platform, after having the conversation he makes sure to provide use cases to fix bugs and to create new features on Grow Platform
+- On Client Operations I closely work with his peer leaders and onshore team to provide solutions and made sure to globalize the operation which results in faster SLA and timelines
 
-EDUCATION
-Bachelor of Engineering (Computer Science)
-Sri Krishna Institute of Technology, Visvesvaraya Technological University
-2013
+Oracle India Private Ltd - Specialist Campaign Services
+April’ 2017 – April 2021
+- 4+ Years of Experience in Campaign Services and have hands on Experience in Project management.
+- Played a key role supporting both PM and CS role for clients like Coles Liqour, Jetstar, Telstra, Suncorp.
+- Actively involved in PM for Aegean Airlines, leading the team to host the scrum call for internal operations, and being part of client calls for budgeting and negotiating timelines.
+- Managing team size of 4 members and supporting complex and technical task with team.
+- Played a key role in on-boarding Coles liquor, Provided recommendations to Campaign and QA team to streamline process for complex Campaigns/Automation Projects.
+- Involved in preparing documentation to combine concept of Responsys STO (Send time optimization) and MVT (Multi variant testing) to target audience in specific time based on their click rates or conversion rates, which was recognised by Oracle innovation team.
+- Worked on RI/Oracle Marketing Cloud to create Static and Dynamic campaigns, Data lists, Filters, Seed and Proof lists and Supplemental tables.
+- B2C master certified from Oracle University for Responsys interact Tool.
+- Worked on Eloqua platform to create personalised campaigns, lead generations and customized landing page.
+- Have worked on complex campaigns/accounts and been widely influenced on EMD/RPL, API Calls, Programming launches, Hosting images, Connect Jobs, Triggering/Recurring launches, SQL joins, Prefilled forms, Promotional/Transactional Dashboards, List, Filters and Suppressions.
+- Recognised by AU stakeholders and got appreciation from executive team of Suncorp and Coles liquor for managing high volume of campaigns in the peak sales season.
 
-CERTIFICATION
-Oracle University B2C Master Certification - Responsys Interact
+Versatiletech - Specialist Campaign Services
+Nov’ 2013 – Sept’2016
+- 2+ Years of Experience in Campaign Services.
+- Have an excellent problem solving skills and have come up with the best ideas and out of box thinking that have helped Team and work environment to remain stable and effective.
+- Got an opportunity to travel USA to represent TI for on-boarding new clients of Seattle region.
+- Managed team size of 15 members and played a key role in training members on Nordstrom, Staples and Costplus.
+- Work with internal and US stockholders to streamline campaign build and QA process for Intuit, Macy’s and Hawaiian Airlines.
+- Responsible for resource management and utilization for revenue gains for the organization.
+- Recognized by the Global director and US managers for providing inputs to improve the processes of retail, Financial and airline clients such as Macy’s, Staples, Nordstrom, Intuit and Hawaiian Airlines.
+- Recognized by Director of operations and got an award as “BEST EMPLOYEE” for maintaining outstanding quality on top Tier1 accounts.
 
-SELECTED CLIENT EXPERIENCE
-Starbucks; PepsiCo; Unilever; Air New Zealand; Are Media; Suncorp; Coles Liquor; Jetstar; Telstra; Aegean Airlines; Nordstrom; Staples; Intuit; Macy's; Hawaiian Airlines.
+Academic Qualification:
+VTU/Visvesvaraya Technological University
+Bachelor of Engineering (BE), Computer science From Sri Krishna Institute of Technology, VTU in 2013
+
+Highlights:
+- Certified B2C master certified from Oracle University for Responsys interact Tool.
+- Recognized by Director of operations and got an award as “BEST EMPLOYEE” for maintaining outstanding quality on top Tier1 accounts.
+- Recognised by AU stakeholders and got appreciation from executive team of Suncorp and Coles liquor for managing high volume of campaigns in the peak sales season.
+
+Declaration
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Place:
+Bangalore
+
+signature:
