@@ -10,3 +10,44 @@
 @media(max-width:520px){.page{padding:0 12px;margin-top:12px}.profile-header{padding:22px 18px;border-radius:12px}.profile-main{gap:15px}.experience-badge{width:70px;height:70px}.experience-badge strong{font-size:23px}.overline{font-size:7px;letter-spacing:.9px}h1{font-size:30px}.role{font-size:13px}.header-actions{display:flex;flex-wrap:wrap;gap:8px 18px}.header-email{width:100%}.section-nav{justify-content:space-between;padding:8px 0;gap:0}.section-nav a{flex:1;padding:10px 7px;font-size:11px}.impact-grid{gap:7px}.impact{padding:12px 9px}.impact>strong{font-size:20px}.panel,.secondary-column .panel{padding:19px 17px}.job-heading{flex-direction:column}.secondary-column{grid-template-columns:1fr}.contact-bar{padding:20px;align-items:flex-start;flex-direction:column}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
 @media print{body{background:white;font-size:10pt}.page{max-width:none;margin:0;padding:0}.section-nav,.header-actions .button,.contact-bar,footer,.skip{display:none!important}.profile-header{background:white;color:#3b244a;box-shadow:none;border-radius:0;padding:0 0 15px;border-bottom:2px solid #3b244a}.overline,.role,.location,.header-email,.header-links{color:#6c5266}.experience-badge{width:64px;height:64px}.resume-grid{display:block}.panel{padding:15px 0;border:0;box-shadow:none}.secondary-column{display:block}.impact-grid{margin:15px 0}.job{break-inside:avoid}.skills-list{display:grid;grid-template-columns:1fr 1fr;gap:12px}.cert-list{columns:2}.cert-list li{break-inside:avoid}}
+
+/* Enhanced inner-card interaction and Anand-style print/PDF parity */
+.job{margin:14px 0;padding:18px;border:1px solid #eadde6;border-radius:11px;background:linear-gradient(180deg,#fff,#fdfafd);box-shadow:0 5px 16px #3b244a08;transition:transform .28s var(--ease),box-shadow .28s var(--ease),border-color .28s var(--ease)}
+.job:first-of-type{padding-top:18px}.job:last-child{border-bottom:1px solid #eadde6}
+.motion-ready .job:hover{transform:translateY(-4px);box-shadow:0 13px 28px #3b244a16;border-color:#d9bfd0}
+.skills-list>div,.cert-list li,.education-item,.client-cloud span,.job-tags span,.experience-badge{transition:transform .25s var(--ease),box-shadow .25s var(--ease),background-color .25s var(--ease),border-color .25s var(--ease)}
+.motion-ready .skills-list>div:hover{transform:translateX(4px);background:#fcf8fb}
+.motion-ready .cert-list li:hover{transform:translateX(4px)}
+.motion-ready .education-item:hover{transform:translateY(-3px)}
+.motion-ready .client-cloud span:hover,.motion-ready .job-tags span:hover{transform:translateY(-2px);box-shadow:0 5px 12px #3b244a12}
+.motion-ready .experience-badge:hover{transform:rotate(-4deg) scale(1.04);box-shadow:0 0 0 6px #ffffff0a,0 12px 24px #27152e30}
+.panel{transition:transform .28s var(--ease),box-shadow .28s var(--ease),border-color .28s var(--ease)}
+.motion-ready .panel:hover{box-shadow:0 12px 28px #3b244a0d;border-color:#ddcbd7}
+@media print{
+  *{-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important}
+  @page{size:A4;margin:9mm}
+  body{background:#f7f2f6!important;font-size:8.6pt}
+  .page{max-width:none;margin:0;padding:0}
+  .section-nav,.contact-bar,footer,.skip,.motion-toggle{display:none!important}
+  .profile-header{background:linear-gradient(135deg,#3b244a,#5c355f)!important;color:#fff!important;border-radius:12px!important;padding:18px 20px!important;border:0!important;box-shadow:none!important}
+  .overline{color:#e2bfd0!important}.role{color:#f3e8ef!important}.location,.header-email,.header-links{color:#d6c3d2!important}
+  .header-actions .button{display:none!important}.header-actions{display:block!important}
+  .experience-badge{width:68px;height:68px;background:linear-gradient(145deg,#f8e8f0,#e9c6d5)!important;border-color:#f3dce6!important}
+  .experience-badge strong{font-size:20px}.experience-badge span{font-size:7px}
+  h1{font-size:25px}.overview{margin-top:10px}.summary{font-size:8.6pt;line-height:1.5;margin-bottom:7px}
+  .impact-grid{grid-template-columns:repeat(3,1fr)!important;gap:7px;margin:9px 0 12px}.impact{padding:10px 12px!important;break-inside:avoid}.impact>strong{font-size:17px}.impact p{font-size:7.4pt}
+  .resume-grid{display:grid!important;grid-template-columns:minmax(0,1.85fr) minmax(0,.95fr)!important;gap:10px!important;align-items:start!important}
+  .secondary-column{display:grid!important;grid-template-columns:1fr!important;gap:9px!important}
+  .panel,.secondary-column .panel{padding:12px!important;border:1px solid #e7dce7!important;border-radius:9px!important;box-shadow:none!important;background:#fff!important;break-inside:auto}
+  .panel>.section-heading{padding-bottom:8px}.section-heading{margin-bottom:8px}h2{font-size:12px}h3{font-size:10px}
+  .job{padding:10px!important;margin:8px 0!important;border:1px solid #eadde6!important;border-radius:8px!important;background:#fff!important;box-shadow:none!important;break-inside:avoid}
+  .job-heading{flex-direction:row!important}.job-role{font-size:8pt}.dates{font-size:7pt}.achievements{font-size:7.7pt;line-height:1.45;margin-top:7px;padding-left:13px}.achievements li{margin-bottom:4px}
+  .job-tags{margin-top:7px}.job-tags span,.client-cloud span{font-size:6.5pt;padding:3px 6px}
+  details{display:block!important}details>.detail-body{display:block!important;overflow:visible!important}details>summary{font-size:7.4pt!important;padding:5px 0!important}.plus{display:none!important}
+  .skills-list>div{padding:8px 0}.skills-list dt{font-size:7.2pt}.skills-list dd{font-size:7.3pt;line-height:1.45}
+  .cert-list li{padding:7px 0}.cert-list strong,.cert-list div>span{font-size:7.2pt}.cert-mark{width:16px;height:16px;flex-basis:16px;font-size:8px}
+  .education-item{margin-top:9px}.education-item h3{font-size:7.5pt}.education-item p{font-size:7pt}
+  .client-cloud{gap:4px;margin-top:8px}
+  .section-note{font-size:7pt}
+  .overview,.impact,.panel,.job,.skills-list>div,.cert-list li,.education-item,.client-cloud span{animation:none!important;transform:none!important}
+}
